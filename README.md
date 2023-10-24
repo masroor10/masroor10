@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
@@ -26,7 +25,39 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Hello, I'm Masroor Ahmed, a passionate computer scientist and programmer with a love for developing cutting-edge web and Android applications. With a strong background in software engineering and a deep appreciation for elegant and intuitive user interfaces, I strive to create exceptional digital experiences.</p>
+
+###
+
+<h3 align="left">💻 Professional Experience</h3>
+
+###
+
+<p align="left">I have extensive experience in utilizing MERN (MongoDB, Express.js, React, and Node.js) technology stack for web application development. This stack allows me to create robust and scalable web solutions with efficient data management and dynamic user interfaces.</p>
+
+###
+
+<h3 align="left">🌐 Web Application Development</h3>
+
+###
+
+<p align="left">My journey in the world of web development has allowed me to transform ideas into functional and user-friendly web applications. From creating responsive and visually appealing user interfaces to implementing complex back-end logic, I'm committed to delivering high-quality web applications that meet the needs of users and businesses alike.</p>
+
+###
+
+<h3 align="left">📱 Android Application Development</h3>
+
+###
+
+<p align="left">In addition to web development, I am well-versed in Android application development. I harness the power of Java and Kotlin as well as Dart to craft mobile applications that run seamlessly on a wide range of Android devices. My apps prioritize performance, user experience, and intuitive design.</p>
+
+###
+
+<h3 align="left">🎯 My Mission</h3>
+
+###
+
+<p align="left">I am dedicated to staying at the forefront of technology trends, constantly honing my skills, and pushing the boundaries of what's possible in the world of software development. My mission is to create software that not only solves problems but also leaves a lasting impact.</p>
 
 ###
 
@@ -84,6 +115,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
